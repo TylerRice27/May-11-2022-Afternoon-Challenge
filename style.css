@@ -1,0 +1,26 @@
+/* .col {
+    height: 100px;
+} */
+
+.img-height {
+    height: 350px;
+}
+
+.banner-row {
+    min-height: 50vh;
+}
+
+.banner {
+    background-image: url("coffee_pic.jpg");
+    /* object-fit: cover;*/
+    background-position: center;
+    background-size: cover;
+}
+
+.number-tag {
+    width: 9rem;
+}
+
+.navbar-nav {
+    margin-left: 73%
+}
