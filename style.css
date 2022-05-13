@@ -24,3 +24,24 @@
 .navbar-nav {
     margin-left: 73%
 }
+
+.machines {
+    position: absolute;
+    left: 202px;
+    top: 825px;
+    color: white;
+}
+
+.maps {
+    position: absolute;
+    left: 712px;
+    top: 825px;
+    color: white;
+}
+
+.expertise {
+    position: absolute;
+    left: 1196px;
+    top: 825px;
+    color: white;
+}
